@@ -1,0 +1,5 @@
+Model,RMSE,MAE,R²
+Gradient Boosting,3.12,2.372,0.095
+Random Forest,3.361,2.269,-0.05
+Neural Network,3.464,2.539,-0.115
+OLS,12.412,11.443,-13.318
