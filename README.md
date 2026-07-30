@@ -13,6 +13,20 @@ This interactive Streamlit dashboard presents the results of a supervised machin
 
 ---
 
+## Google Colab Notebooks
+
+The complete machine learning workflow is documented in two Google Colab notebooks:
+
+- **Phase 1 – Data Collection & Preprocessing**  
+  🔗 https://colab.research.google.com/drive/1BHSFzAVQF9VRj6hwaHchDVVkVQE4-yuc?usp=sharing 
+
+- **Phase 2 – Machine Learning Modelling & Evaluation**  
+  🔗 https://colab.research.google.com/drive/1ni9wqpbMf28gAFcZ795fu5uL0Gzgcg8E?usp=sharing 
+
+These notebooks provide the full workflow used in this project, including data acquisition from the World Bank, preprocessing, feature engineering, model training, evaluation, and export of the final models used in the dashboard.
+
+---
+
 ## Project Overview
 
 - **Aim**: Develop and evaluate supervised machine learning models for predicting Nigeria’s annual GDP growth and compare their performance against a traditional OLS benchmark.
@@ -55,8 +69,8 @@ Ensemble machine learning models (especially Gradient Boosting and Random Forest
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/nigeria-gdp-ml-dashboard.git
-cd nigeria-gdp-ml-dashboard
+git clone https://github.com/aminamuhammummi-ui/Nigeria_GDP_ML_Dashboard.git
+cd Nigeria_GDP_ML_Dashboard
 ```
 
 ### 2. Clone the repository
