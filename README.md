@@ -64,6 +64,20 @@ Ensemble machine learning models (especially Gradient Boosting and Random Forest
 
 ---
 
+## Technologies Used
+
+This project was developed using the following tools and libraries:
+
+- **Python** – Core programming language
+- **Streamlit** – Interactive web application framework
+- **scikit-learn** – Machine learning model development and evaluation
+- **pandas** & **NumPy** – Data manipulation and numerical computing
+- **Matplotlib** & **Seaborn** – Data visualisation and exploratory analysis
+- **Joblib** – Model serialization and loading trained models
+- **World Bank API (wbgapi)** – Retrieval of World Development Indicators (WDI) data
+
+---
+
 ## How to Run Locally
 
 ### 1. Clone the repository
