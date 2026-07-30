@@ -8,8 +8,7 @@ This interactive Streamlit dashboard presents the results of a supervised machin
 
 ## Live Demo
 
-🔗 **[Click here to open the live dashboard](https://YOUR-APP-NAME.streamlit.app)**  
-*(Replace this link with your actual Streamlit Community Cloud URL after deployment)*
+🔗 **[Click here to open the live dashboard](https://nigeriagdpmldashboard-jsec9nnctqelkjhpvj4w6z.streamlit.app/)**  
 
 ---
 
